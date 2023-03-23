@@ -1,6 +1,8 @@
-### Hello there 👋
+### Hello there! 👇👀
 
-## 🌟 Please see the [SIPLab organization](https://github.com/Sensory-Information-Processing-Lab) rather than this account for our software. 🌟
+# ✨ Please see the [SIPLab organization](https://github.com/Sensory-Information-Processing-Lab) rather than this account for our software. ✨
+
+☝️👀
 
 <!--
 **siplab-gt/siplab-gt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
